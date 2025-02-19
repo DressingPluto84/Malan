@@ -1,2 +1,2 @@
-hail hitler
 print("Malik")
+
