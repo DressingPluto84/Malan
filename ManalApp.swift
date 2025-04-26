@@ -2,7 +2,7 @@
 //  ManalApp.swift
 //  Manal
 //
-//  Created by Anish Kulkarni on 2025-02-19.
+//  Created by Anish Kulkarni and Malik Antar on 2025-02-19.
 //
 
 import SwiftUI
